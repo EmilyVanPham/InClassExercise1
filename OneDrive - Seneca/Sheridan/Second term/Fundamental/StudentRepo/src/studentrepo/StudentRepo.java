@@ -6,7 +6,7 @@ package studentrepo;
 
 /**
  *
- * @author vanpham
+ * @author ThiThanhVanPham
  */
 public class StudentRepo {
 
