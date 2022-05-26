@@ -7,6 +7,7 @@ package studentrepo;
 /**
  *
  * @author ThiThanhVanPham
+ * Date: May 26, 2022
  */
 public class StudentRepo {
 
@@ -14,7 +15,7 @@ public class StudentRepo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("GitHub Interaction");
     }
     
 }
